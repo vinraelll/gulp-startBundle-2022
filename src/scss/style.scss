@@ -1,1 +1,6 @@
-@import 'fonts';
+// global styles and reset
+@import './global/_reset.scss';
+@import './global/_mixins.scss';
+@import './global/_main.scss';
+@import './global/_fonts.scss';
+
